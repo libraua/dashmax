@@ -1,0 +1,3 @@
+crewai
+langchain_experimental
+langchain_community
